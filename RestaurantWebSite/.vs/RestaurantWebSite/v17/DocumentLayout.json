@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MncProject\\ResturantWebsite\\RestaurantWebSite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{416DC00E-1428-4BA2-A6ED-00EBAB53F6FD}|RestaurantWebSite.csproj|e:\\mncproject\\resturantwebsite\\restaurantwebsite\\helper\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416DC00E-1428-4BA2-A6ED-00EBAB53F6FD}|RestaurantWebSite.csproj|solutionrelative:helper\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{416DC00E-1428-4BA2-A6ED-00EBAB53F6FD}|RestaurantWebSite.csproj|e:\\mncproject\\resturantwebsite\\restaurantwebsite\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{416DC00E-1428-4BA2-A6ED-00EBAB53F6FD}|RestaurantWebSite.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{416DC00E-1428-4BA2-A6ED-00EBAB53F6FD}|RestaurantWebSite.csproj|e:\\mncproject\\resturantwebsite\\restaurantwebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416DC00E-1428-4BA2-A6ED-00EBAB53F6FD}|RestaurantWebSite.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\MncProject\\ResturantWebsite\\RestaurantWebApi.DataAccess\\Context\\DataContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\MncProject\\RestaurantWebApi.DataAccess\\Context\\DataContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{416DC00E-1428-4BA2-A6ED-00EBAB53F6FD}|RestaurantWebSite.csproj|e:\\mncproject\\resturantwebsite\\restaurantwebsite\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{416DC00E-1428-4BA2-A6ED-00EBAB53F6FD}|RestaurantWebSite.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\MncProject\\RestaurantWebApi.Migration\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\MncProject\\RestaurantWebApi.Model\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\MncProject\\RestaurantWebApi.DataAccess\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 226,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\MncProject\\ResturantWebsite\\RestaurantWebSite\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\MncProject\\ResturantWebsite\\RestaurantWebSite\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-18T13:21:05.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "E:\\MncProject\\ResturantWebsite\\RestaurantWebApi.DataAccess\\Context\\DataContext.cs",
+              "RelativeDocumentMoniker": "..\\RestaurantWebApi.DataAccess\\Context\\DataContext.cs",
+              "ToolTip": "E:\\MncProject\\ResturantWebsite\\RestaurantWebApi.DataAccess\\Context\\DataContext.cs",
+              "RelativeToolTip": "..\\RestaurantWebApi.DataAccess\\Context\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T13:20:18.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "E:\\MncProject\\ResturantWebsite\\RestaurantWebSite\\Helper\\Helper.cs",
+              "RelativeDocumentMoniker": "Helper\\Helper.cs",
+              "ToolTip": "E:\\MncProject\\ResturantWebsite\\RestaurantWebSite\\Helper\\Helper.cs",
+              "RelativeToolTip": "Helper\\Helper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAD7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T13:12:58.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "E:\\MncProject\\RestaurantWebApi.DataAccess\\Context\\DataContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\RestaurantWebApi.DataAccess\\Context\\DataContext.cs",
+              "ToolTip": "E:\\MncProject\\RestaurantWebApi.DataAccess\\Context\\DataContext.cs",
+              "RelativeToolTip": "..\\..\\RestaurantWebApi.DataAccess\\Context\\DataContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T13:08:07.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MncProject\\ResturantWebsite\\RestaurantWebSite\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\MncProject\\ResturantWebsite\\RestaurantWebSite\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T13:05:59.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\MncProject\\RestaurantWebApi.Migration\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\RestaurantWebApi.Migration\\Class1.cs",
+              "ToolTip": "E:\\MncProject\\RestaurantWebApi.Migration\\Class1.cs",
+              "RelativeToolTip": "..\\..\\RestaurantWebApi.Migration\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T13:02:41.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\MncProject\\RestaurantWebApi.Model\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\RestaurantWebApi.Model\\Class1.cs",
+              "ToolTip": "E:\\MncProject\\RestaurantWebApi.Model\\Class1.cs",
+              "RelativeToolTip": "..\\..\\RestaurantWebApi.Model\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T12:39:30.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\MncProject\\RestaurantWebApi.DataAccess\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\RestaurantWebApi.DataAccess\\Class1.cs",
+              "ToolTip": "E:\\MncProject\\RestaurantWebApi.DataAccess\\Class1.cs",
+              "RelativeToolTip": "..\\..\\RestaurantWebApi.DataAccess\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T12:38:48.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\MncProject\\ResturantWebsite\\RestaurantWebSite\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "E:\\MncProject\\ResturantWebsite\\RestaurantWebSite\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-18T12:37:31.979Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
