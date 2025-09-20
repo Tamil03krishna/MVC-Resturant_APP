@@ -1,0 +1,30 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@model RestaurantWebApi.Model.UserInputModel
+@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="login-container">
+    <div class="login-left"></div>
+    <div class="login-right">
+        <h2>Log In</h2>
+        <form method="post" asp-action="Login">
+            <div class="input-box">
+                <input type="text" name="username" placeholder="Username" required />
+            </div>
+            <div class="input-box">
+                <input type="password" name="password" placeholder="Password" minlength="8" required />
+            </div>
+            <button type="submit" class="btn-custom">Log In</button>
+            <p style="color:red">@ViewBag.Error</p>
+            <p>Don't have an account? <a asp-action="Register">Register</a></p>
+        </form>
+    </div>
+</div>
+
+<div class="welcome-message">
+    WELCOME VAGAI RESTAURANT
+</div>

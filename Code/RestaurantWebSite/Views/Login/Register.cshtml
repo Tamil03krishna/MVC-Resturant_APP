@@ -1,0 +1,33 @@
+﻿@model RestaurantWebApi.Model.UserInputModel
+@{
+    ViewData["Title"] = "Register";
+}
+
+<div class="login-container">
+    <div class="login-left"></div>
+    <div class="login-right">
+        <h2>Register</h2>
+        <form method="post" asp-action="Register">
+            <div class="input-box">
+                <input asp-for="Username" placeholder="Username" required />
+            </div>
+            <div class="input-box">
+                <input asp-for="Email" type="email" placeholder="Email" required />
+            </div>
+            <div class="input-box">
+                <input asp-for="FirstName" placeholder="First Name" required />
+            </div>
+            <div class="input-box">
+                <input asp-for="LastName" placeholder="Last Name" required />
+            </div>
+            <div class="input-box">
+                <input asp-for="Password" type="password" placeholder="Password" minlength="8" required />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <button type="submit" style="background-color: rgba(39, 88, 245, 0.8);" class="btn-custom">Register</button>
+            <p>Already have an account? <a asp-action="Login">Login</a></p>
+        </form>
+    </div>
+</div>
+
+

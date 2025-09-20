@@ -3,13 +3,9 @@ using RestaurantWebApi.DataAccess.Context;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// ✅ Get connection string from appsettings.json
-var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
-
-// ✅ Register DbContext with MySQL (Pomelo provider)
 builder.Services.AddDbContext<DataContext>(options =>
-    options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
-
+    options.UseMySql(builder.Configuration.GetConnectionString("DefaultConnection"),
+        new MySqlServerVersion(new Version(8, 0, 36))));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
@@ -33,6 +29,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Login}/{action=Login}/{id?}");
 
 app.Run();
